@@ -1,4 +1,4 @@
-# Segment-features-in-UAV-images-of-flooded-areas-taken-in-Houston-after-Hurricane-Harvey
+# UAV-images-of-flooded-areas-after-Hurricane-Harvey
 
 This is our team of three students' contribution in a Kaggle Competition among the cohort of Data Science Master's in ESSEC-CentraleSupelec. 
 The aim of the competition was to implement and solve a remote sending task using recent Deep Learning techniques.  
